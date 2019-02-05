@@ -1,0 +1,1 @@
+# Apache-cgi-for-qr-reader
